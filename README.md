@@ -22,7 +22,7 @@ form 태그 내에 table 태그를 통한 데이터를 입력 받는 텍스트�
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/102115231/201848065-1a083465-658a-4641-a273-4f1d29bfd781.png"> <br>
  if를 사용해서 값이 존재하면 조회가 되고 아니면 없는 표시가 나오 했습니다. <br>
 <img width="546" alt="image" src="https://user-images.githubusercontent.com/102115231/201848453-3b83639b-d30b-4d49-9941-0e0f4ff472c6.png"> <br>
-대상 조회에 사용된 쿼리문입니다. 주민번호 7번째 자리가 1이면 남 2면 여자로 표시되고, 병원코드와 백신코드는 각자  가,나,다 로 바뀝니다. <br>
+대상 조회에 사용된 쿼리문입니다. 주민번호 7번째 자리가 1이면 남 2면 여자로 표시됩니다. <br>
 
 
 
